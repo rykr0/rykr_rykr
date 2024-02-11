@@ -25,7 +25,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      </li>
+    </li>
+    <li>
       <a href="#contact">Contact</a>
     </li>
   </ol>
@@ -36,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![screenshot][product-screenshot]](https://github.com/rykr0/rykr_rykr/blob/main/s1.dra/MediaFiles/orange%20handkerchief/bigiblini_an_orange_handkerchief_tucked_in_a_male_motorcyclists_27a022ed-a0e5-457a-93f9-df5124e5f7ad.png)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This repo contains davinci resolve projects for the 'rykr' film. It is split into three sections (s1, s2, s3). These are attached in the `rykr_final.dra' folder.
 
@@ -71,7 +72,7 @@ Project Link: [https://github.com/rykr0/rykr_rykr](https://github.com/rykr0/rykr
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/rykr0/rykr_rykr/blob/main/s1.dra/MediaFiles/orange%20handkerchief/bigiblini_an_orange_handkerchief_tucked_in_a_male_motorcyclists_27a022ed-a0e5-457a-93f9-df5124e5f7ad.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
