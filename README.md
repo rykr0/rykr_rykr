@@ -39,7 +39,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This repo contains davinci resolve projects for the 'rykr' film. It is split into three sections (s1, s2, s3). These are attached in the `rykr_final.dra' folder.
+This repo contains davinci resolve projects for the 'rykr' film. It is split into three sections (s1, s2, s3). 
+
+The `rykr_final.dra' folder.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
