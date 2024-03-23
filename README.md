@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 This repo contains davinci resolve projects for the 'rykr' film. It is split into three sections (s1, s2, s3). 
 
